@@ -12,3 +12,5 @@
 **/tools/*
 .vs
 .vscode
+.DS_Store
+.idea/*
